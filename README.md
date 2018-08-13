@@ -12,8 +12,10 @@ Argument requirements:
 * delay (millisecond delay to load app (for ease of adding to home screen))
 
 # Example Usage
-
 navigate in safari to:
+
 `webapp.php?app-name=Milestone&app-href=https://milestone.myfinanceservice.com/&app-img=/apple-touch-icon.png&app-color=#275375&delay=3000`
+
 tap share and tap "Add to Home Screen"
+
 Your webapp is now added.
