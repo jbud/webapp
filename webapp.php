@@ -1,7 +1,5 @@
 <?php 
-// uses get arguments to generate webapp.
-// ?app-name=Milestone&app-href=https://milestone.myfinanceservice.com/&app-img=/apple-touch-icon.png&app-color=#275375&delay=10000
-
+// uses get arguments to generate webapp. Created by Joe Jackson 08/2018
 ?>
 <html>
 <head>
